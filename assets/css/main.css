@@ -39,9 +39,9 @@ body {
 }
 
 .profile_pic img {
-    width: 250px; /* Adjust size as needed */
-    height: 250px; /* Adjust size as needed */
-    border-radius: 50%; /* Makes the image circular */
+    width: 250px; 
+    height: 250px; 
+    border-radius: 50%; 
     border: 3px solid #fff; 
     box-shadow: 0 0 10px rgba(212, 108, 33, 0.1); 
 }
@@ -2120,7 +2120,7 @@ input, select, textarea {
 		select:focus,
 		textarea:focus {
 			background: rgba(224, 224, 224, 0.15);
-			border-color: #4eb980;
+			border-color: #358b5d;
 		}
 
 	input[type="text"],
