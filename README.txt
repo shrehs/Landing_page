@@ -1,30 +1,57 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio Website
 
+A sleek and minimalist portfolio website designed to showcase personal and professional achievements. The website features a dark aesthetic with grayscale and neon accents for a modern, professional look.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## Features
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- **About Me Section**: A brief introduction, including a minimalist grayscale image matching the website's aesthetic.
+- **Blogs Section**: Displays Medium articles.
+- **Dark Aesthetic**: A visually appealing dark theme with subtle neon highlights for a modern design.
+- **Responsive Design**: Fully responsive for optimal viewing on desktops, tablets, and mobile devices.
+- **Custom Background**: Unique dark gray background with neon accents to enhance the website's visual appeal.
 
-(* = not included)
+## Technologies Used
 
-AJ
-aj@lkn.io | @ajlkn
+- **HTML5**: Structure and content of the website.
+- **CSS3**: Styling, animations, and theme.
+- **JavaScript**: Dynamic content (e.g., fetching Medium RSS feed).
+- **DALL·E**: AI-generated images for an aesthetic look and feel.
 
+## Setup and Usage
 
-Credits:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio-website
+   ```
+3. Open `index.html` in your browser to view the website locally.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+4. To customize:
+   - Update the **About Me** section in `index.html`.
+   - Add Medium articles or custom blog links in the **Blogs** section.
+   - Replace images in the `/assets` folder to suit your personal style.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Screenshots
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### About Me Section
+![About Me](path/to/about-me-screenshot.png)
+
+### Blogs Section
+![Blogs](path/to/blogs-screenshot.png)
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+## Acknowledgement
+
+HTML5 sample format is used
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+- **GitHub**: [@shrehs](https://github.com/shrehs)
+- **Email**: shreyahs.engineer
